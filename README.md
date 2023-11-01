@@ -1,4 +1,4 @@
-Hi ![](<iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>)My name is Murat Alarçin
+Hi ![]([<iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>](https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif))My name is Murat Alarçin
 =====================================================================================================================================
 
 Android Developer
