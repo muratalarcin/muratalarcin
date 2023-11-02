@@ -3,7 +3,7 @@
 </p>
 
 <div style="text-align: center;">
-  <p class="text" style="font-size: 64px;">Let's Connect and have a Chat!</p>
+  <p style="font-size: 48px; display: inline;">Let's Connect and have a Chat!</p>
 </div>
 
 
