@@ -46,7 +46,8 @@
   <img src="https://github.com/muratalarcin/muratalarcin/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="auto" height="400">
 </p>
 
-# <p align="center"> <p align="center"><span style="font-size: 48px;">👋 My name is Murat Alarçin</span></p>
+
+<p align="center"> <h2> 👋 My name is Murat Alarçin </h2> </p>
 =====================================================================================================================================
 
 Android Developer
@@ -67,7 +68,6 @@ As a young graduate who is determined to step into the software industry, I am a
 
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
