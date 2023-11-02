@@ -1,9 +1,11 @@
 <p align="center"> 
-  <img src=" https://capsule-render.vercel.app/api?text=Merhaba Millet!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+  <img src=" https://capsule-render.vercel.app/api?text=Merhaba Millet!🕹️&animation=fadeIn&type=waving&color=gradient&height=auto"/> 
 </p>
 
 
-
+<p align="center">
+  <img src="https://github.com/muratalarcin/muratalarcin/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="auto" height="500">
+</p>
 
 👋 My name is Murat Alarçin
 =====================================================================================================================================
