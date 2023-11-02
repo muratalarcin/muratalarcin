@@ -48,7 +48,7 @@
 # <b align="center"> <p align="center"><span style="font-size: 48px;">👋 My name is Murat Alarçin </span></b>
 
 Android Developer
------------------
+
 
 As a young graduate who is determined to step into the software industry, I am a software developer who is very keen on developing Android applications specifically for the mobile field. I focus on the mobile space and during this time I spend most of my time developing projects with Kotlin, MVVM, MVC, Git, Jetpack, SDK, Room, Retrofit, RestAPI, Json, XML and technology data tools.
 
