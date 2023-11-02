@@ -58,6 +58,7 @@ As a young graduate who is determined to step into the software industry, I am a
 * 🧠  I'm learning Android
 
 <p align="center"> <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2></p>
+
 # <p align="center"> <p align="center"><span style="font-size: 48px;">🚀 &nbsp;Some Tools I Have Used and Learned</span></p>
 
 <p align="center">
