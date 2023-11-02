@@ -75,6 +75,6 @@ As a young graduate who is determined to step into the software industry, I am a
 <a href="http://www.github.com/muratalarcin"><img src="https://github-readme-stats.vercel.app/api?username=muratalarcin&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muratalarcin's GitHub stats" /></a>
 
   
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
