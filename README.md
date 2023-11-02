@@ -4,7 +4,7 @@
 
 
 # <p align="center">
-<span style="font-size: 48px;">Let's Connect and have a Chat! 🕹️ 
+Let's Connect and have a Chat! 🕹️ 
 </p>
 
 <p align="center">
