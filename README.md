@@ -48,9 +48,6 @@
 </p>
 
 
-
-# <b align="center"> <p align="center"><span style="font-size: 48px;">👋 My name is Murat Alarçin </span></b>
-
 Android Developer
 -----------------
 
