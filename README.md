@@ -1,9 +1,10 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-
-# <p align="center"> <p align="center"><span style="font-size: 48px;">Let's Connect and have a Chat! 🕹️</span></p>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <p align="center">
 <a href="https://www.github.com/muratalarcin" target="_blank" rel="noreferrer">
