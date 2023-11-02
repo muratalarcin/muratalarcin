@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
+<div class="container">
+  Let's Connect and have a Chat!
+</div>
+
 <p align="center">
   <img src="https://github.com/muratalarcin/muratalarcin/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="auto" height="400">
 </p>
