@@ -3,7 +3,7 @@
 </p>
 
 <div align="center"> 
-  <p class="text">##Let's Connect and have a Chat!</p>
+  <p class="text"># Let's Connect and have a Chat!</p>
 </div>
 
 
