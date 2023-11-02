@@ -47,8 +47,8 @@
 </p>
 
 
-<p align="center">👋 My name is Murat Alarçin </p>
-==================================================
+# <p align="center"> <p align="center"><span style="font-size: 48px;">👋 My name is Murat Alarçin </span></p>
+-------------------------------------------------
 
 Android Developer
 -----------------
