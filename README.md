@@ -75,18 +75,12 @@ As a young graduate who is determined to step into the software industry, I am a
 <a href="http://www.github.com/muratalarcin"><img src="https://github-readme-stats.vercel.app/api?username=muratalarcin&show_icons=true&hide=issues,contribs&count_private=true&title_color=2f97c1&text_color=0cf574&icon_color=f5b700&bg_color=040f0f&hide_border=false&show_icons=true" alt="muratalarcin's GitHub stats" /></a>
 </p>
 
-  
+
+
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
