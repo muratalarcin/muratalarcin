@@ -3,9 +3,7 @@
 </p>
 
 
-# <p align="center">
-Let's Connect and have a Chat! 🕹️ 
-</p>
+# <p align="center"> <p align="center"><span style="font-size: 48px;">Let's Connect and have a Chat! 🕹️</span></p>
 
 <p align="center">
 <a href="https://www.github.com/muratalarcin" target="_blank" rel="noreferrer">
