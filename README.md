@@ -71,10 +71,8 @@ As a young graduate who is determined to step into the software industry, I am a
 </p>
 
 
-
-
 <p align="center">
-<a href="http://www.github.com/muratalarcin"><img src="https://github-readme-stats.vercel.app/api?username=muratalarcin&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muratalarcin's GitHub stats" /></a>
+<a href="http://www.github.com/muratalarcin"><img src="https://github-readme-stats.vercel.app/api?username=muratalarcin&show_icons=true&hide=issues,contribs&count_private=true&title_color=2f97c1&text_color=0cf574&icon_color=f5b700&bg_color=040f0f&hide_border=false&show_icons=true" alt="muratalarcin's GitHub stats" /></a>
 </p>
 
   
