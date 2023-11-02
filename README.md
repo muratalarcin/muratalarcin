@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murat Alarçin
 =====================================================================================================================================
+
 <img src="https://github.com/muratalarcin/muratalarcin/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="auto" height="auto">
+
 Android Developer
 -----------------
 
