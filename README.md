@@ -3,12 +3,12 @@
 </p>
 
 
-
 # <p align="center">
 <span style="font-size: 48px;">Let's Connect and have a Chat! 🕹️ 
 </span>
 </p>
 
+<p align="center">
 <a href="https://www.github.com/muratalarcin" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
