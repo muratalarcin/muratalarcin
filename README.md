@@ -3,8 +3,9 @@
 </p>
 
 <div class="container">
-  Let's Connect and have a Chat!
+  <p class="text">Let's Connect and have a Chat!</p>
 </div>
+
 
 <p align="center">
   <img src="https://github.com/muratalarcin/muratalarcin/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="auto" height="400">
