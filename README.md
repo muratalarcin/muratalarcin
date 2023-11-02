@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
-<div style="text-align: center;">
-  <p style="font-size: 24px;">Let's Connect and have a Chat!</p>
+<div align="center"> 
+  <p class="text">Let's Connect and have a Chat!</p>
 </div>
+
 
 
 
