@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
 
+# <p align="center"> <p align="center"><span style="font-size: 48px;">Let's Connect and have a Chat! 🕹️</span></p>
 
 <p align="center">
 <a href="https://www.github.com/muratalarcin" target="_blank" rel="noreferrer">
@@ -32,12 +30,6 @@
   </picture>
 </a>
 </p>
-
-
-
-
-
-
 
 
 
@@ -73,3 +65,12 @@ As a young graduate who is determined to step into the software industry, I am a
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/muratalarcin"><img src="https://github-readme-stats.vercel.app/api?username=muratalarcin&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muratalarcin's GitHub stats" /></a>
+
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
