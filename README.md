@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/muratalarcin/muratalarcin/blob/main/11.gif" width="900" height="50">
+  <img src="https://github.com/muratalarcin/muratalarcin/blob/main/11.gif" width="auto" height="auto">
 </p>
 
 
