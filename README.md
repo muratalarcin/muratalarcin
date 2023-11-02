@@ -64,7 +64,7 @@ As a young graduate who is determined to step into the software industry, I am a
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 </p>
 
-<p align="center">
+# <p align="center">
 <b>My GitHub Stats</b>
 </p>
 
