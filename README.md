@@ -79,3 +79,7 @@ As a young graduate who is determined to step into the software industry, I am a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+![Snake animation](https://github.com/muratalarcin/muratalarcin/blob/output/github-contribution-grid-snake.svg)
+
