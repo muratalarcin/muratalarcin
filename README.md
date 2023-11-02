@@ -58,10 +58,8 @@ As a young graduate who is determined to step into the software industry, I am a
 * ✉️  You can contact me at [murattrbl@icloud.com](mailto:murattrbl@icloud.com)
 * 🧠  I'm learning Android
 
-<p align="center">
-  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-</p>
 
+# <p align="center"> <p align="center"><span style="font-size: 24px;">🚀 &nbsp;Some Tools I Have Used and Learned</span></p>
 
 
 <p align="center">
