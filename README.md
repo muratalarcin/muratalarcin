@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
-<div class="container">
-  <img src="https://github.com/muratalarcin/muratalarcin/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="auto" height="500">
-</div>
+
 
 
 👋 My name is Murat Alarçin
