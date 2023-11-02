@@ -24,7 +24,7 @@
   </picture>
 </a>
 
-<a href="http://www.medium.com/muratalarcin" target="_blank" rel="noreferrer">
+<a href="https://medium.com/@muratalarcin" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
