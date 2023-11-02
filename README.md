@@ -43,6 +43,10 @@
   <img src="https://github.com/muratalarcin/muratalarcin/blob/main/11.gif" width="auto" height="auto">
 </p>
 
+<p align="center">
+  <img src="https://github.com/muratalarcin/muratalarcin/blob/main/11.gif" width="auto" height="auto">
+</p>
+
 
 
 # <b align="center"> <p align="center"><span style="font-size: 48px;">👋 My name is Murat Alarçin </span></b>
