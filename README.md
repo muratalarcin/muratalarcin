@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
