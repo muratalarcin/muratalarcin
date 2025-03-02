@@ -37,6 +37,13 @@
 </a>
 </p>
 
+<h2 align="center">
+   <a href="https://muratalarcin.com" target="_blank" style="text-decoration: none;">muratalarcin.com</a>
+</h2>
+
+
+
+
 <p align="center">
   <img src="https://github.com/muratalarcin/muratalarcin/blob/main/22.gif" width="auto" height="auto">
 </p>
@@ -49,11 +56,11 @@
 Computer Engineer
 -----------------
 
-   With an engineering mindset, I am a versatile Mobile Application Developer who can contribute to various aspects of software development. I develop Android and iOS applications using Kotlin, Java, and Swift. In addition to working on freelance projects, I have gained professional experience in a corporate environment. I focus on delivering user-friendly, high-performance, and sustainable solutions while also emphasizing UX/UI design. While mobile development is my primary expertise, I can also take on full-stack development, contribute to R&D processes, and actively participate in different areas of software engineering when needed.
+  With an engineering mindset, I am a versatile Mobile Application Developer capable of contributing to various aspects of software development. I develop Android and iOS applications using Kotlin, Java, and Swift. In addition to working on freelance projects, I have gained professional experience in corporate environments. I focus on delivering user-friendly, high-performance, and scalable solutions while also emphasizing UX/UI design. While mobile development is my primary expertise, I can also contribute to full-stack development, participate in R&D processes, and take on various roles in computer engineering as needed.
 
 * 🌍  I'm based in Izmir/Turkey
 * ✉️  You can contact me at [murattrbl@icloud.com](mailto:murattrbl@icloud.com)
-* 🧠  I'm Computer Engineer
+* 🌐 My Portfolio: [muratalarcin.com](https://muratalarcin.com)
 
 <h1 align="center">
   🚀  Some Tools I Have Used and Learned
